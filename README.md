@@ -4,9 +4,9 @@
 
 **Nickname:** *Phak*
 
-**Job Title** *Dev*
+**Job Title:** *Dev*
 
-**Words** *love you joob joob* 
+**Words:** *love you joob joob* 
 ## Chapter 2
 
 ## Chapter 3
