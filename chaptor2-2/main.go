@@ -5,6 +5,7 @@ import (
 )
 
 func main() {
-
+	// comment
 	fmt.Println("Hello , my name is Wiphak krub")
+
 }
