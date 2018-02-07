@@ -9,7 +9,7 @@
 **Words:** *love you joob joob* 
 ## Chapter 2
 
-*Chaptor 2-1*
+# Chaptor 2-1
 
 ## Chapter 3
 
