@@ -16,5 +16,6 @@
 
  * Chaptor 3-1 Zero value
  * Chaptor 3-2 String value
+ * Chaptor 3-3 Floating point value[1] and bug of float type
 
 ## Chapter 4
