@@ -15,5 +15,6 @@
 ## Chapter 3
 
  * Chaptor 3-1 Zero value
+ * Chaptor 3-2 String value
 
 ## Chapter 4
