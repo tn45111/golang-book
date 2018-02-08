@@ -10,5 +10,6 @@ func main() {
 	fmt.Scanf("%f", &Farenheit)
 	Celsius=((Farenheit-32)*5)/9
 	fmt.Printf("Temp(C) : %.2f",Celsius)
-
 }
+
+
