@@ -26,4 +26,6 @@
 ## Chapter 5
 
  * Chaptor 5-1 for loop
+ * Chaptor 5-2 fizzbuzz using for loop
+ 
  
